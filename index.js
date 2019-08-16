@@ -17,7 +17,7 @@ function main()
     let allBooks = [myBooks, anotherBook, thirdBook];
     allBooks.forEach(function (eachElement)
     {
-        console.log(eachElement);
+        console.log(eachElement); // You did not format output 
 
     });
 
